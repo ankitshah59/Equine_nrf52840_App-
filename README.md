@@ -8,8 +8,7 @@ Python App to get multi sensor data from multiples devices and real time customi
 ## Overview
 This repository provides a **desktop application** for real-time monitoring of equine physiological signals using **Bluetooth Low Energy (BLE) sensors**. The system was developed as part of the research project:
 
-📄 *"Wearable Smart Textile Band for Continuous Equine Health Monitoring"* (Park et al., 2024) :contentReference[oaicite:0]{index=0}.
-
+📄 *"Wearable Smart Textile Band for Continuous Equine Health Monitoring"* 
 The application supports:
 - Continuous data acquisition from multiple BLE-enabled sensors  
 - Real-time visualization of physiological parameters (respiration, cardiac activity, movement)  
@@ -17,7 +16,7 @@ The application supports:
 - Adjustable time windowing for signal inspection  
 - Data export to `.txt` logs for further analysis  
 
-This work bridges veterinary medicine and biomedical engineering, enabling **wireless, non-invasive, and continuous equine health monitoring** in both clinical and field environments :contentReference[oaicite:1]{index=1}.
+This work bridges veterinary medicine and biomedical engineering, enabling **wireless, non-invasive, and continuous equine health monitoring** in both clinical and field environments.
 
 ---
 
