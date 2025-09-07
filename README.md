@@ -17,6 +17,7 @@ The application supports:
 - Data export to `.txt` logs for further analysis  
 
 This work bridges veterinary medicine and biomedical engineering, enabling **wireless, non-invasive, and continuous equine health monitoring** in both clinical and field environments.
+<img width="820" height="643" alt="image" src="https://github.com/user-attachments/assets/7b04e53d-198a-4b04-9122-05af213082c5" />
 
 ---
 
