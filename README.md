@@ -19,6 +19,13 @@ The application supports:
 This work bridges veterinary medicine and biomedical engineering, enabling **wireless, non-invasive, and continuous equine health monitoring** in both clinical and field environments.
 <img width="820" height="643" alt="image" src="https://github.com/user-attachments/assets/7b04e53d-198a-4b04-9122-05af213082c5" />
 
+Fig. 1. Overall system design for equine physiological monitoring with enhanced
+wearability. (A) Schematic illustration of the smart textile band applied to a horse (scale bar,
+20 cm). Insets show close-up images of the sensor-embedded textile band and secure
+attachment mechanism on the horse’s chest and abdomen (top right; scale bar, 2 cm), along
+with example data visualization of physiological signals transmitted wirelessly (bottom right).
+(B) Exploded view and layout of the flexible electronic device. (C) Image of the unfolded
+layout of the flexible electronic circuit (scale bar, 2 cm). 
 ---
 
 ## Features
