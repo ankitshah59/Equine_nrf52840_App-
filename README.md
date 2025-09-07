@@ -1,7 +1,7 @@
 # Equine_nrf52840_App-
 Python App to get multi sensor data from multiples devices and real time customizable graphs. The app is intended for collecting real time sensor data from farm horses while being monitored for regular health screening and exercise. The custom made device sends the data for additional ML based approaches.
 
-![alt text](https://github.com/ankitshah59/Equine_nrf52840_App-/Application GUI Interface.png
+![alt text](https://github.com/ankitshah59/Equine_nrf52840_App-/blob/a607668a86c7dafb2f1e8e8cfcff7ad525953345/Application%20GUI%20Interface.png)
 
 # 🐎 HORSE SENSOR DESKTOP APP
 
